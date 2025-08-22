@@ -38,20 +38,7 @@ This repo helps me:
 - 📘 **Practice Files**
   - Daily practice notebooks and scripts
   - Mini exercises and assignments
-
 ---
-
-## 📅 Learning Plan
-
-| Week | Topics Covered |
-|------|----------------|
-| 1️⃣ Week 1 | Basics of Arrays, Indexing, and Slicing |
-| 2️⃣ Week 2 | Arithmetic, Aggregate Functions, Broadcasting |
-| 3️⃣ Week 3 | Advanced Topics: Views, Boolean Indexing, Random |
-| 🔁 Continuous | Real-world practice and small use-cases |
-
----
-
 ## 🛠️ How to Use
 
 1. Clone the repo:
