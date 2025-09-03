@@ -15,7 +15,7 @@ print(anand2)
 """
 
 # 6D Array Creation Example
-"""
+
 import numpy as np
 anand3=np.array([[[[[[23,45,2,12],[90,91,92,93],[30,31,32,33]]]]]])
 print(anand3)
@@ -41,7 +41,7 @@ print("number of elements along axis -5",anand3.shape[-5])
 print("number of elements along axis -6",anand3.shape[-6])
 print("total number of elements",anand3.size)
 
-"""
+
 
 
 
