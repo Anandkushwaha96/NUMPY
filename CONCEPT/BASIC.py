@@ -194,4 +194,5 @@ print(type(anand12))
 print("item size of array:", anand12.itemsize)
 print("byte in array:", anand12.nbytes)
 print("data type of array",anand12.dtype)
+
 """
