@@ -74,8 +74,49 @@ print(np.mod(arr,2))
 """
 
 #sum function 
+
+"""
 import numpy as np 
 arr=np.array([[23,45,67,89],
               [12,34,56,78]])
 
-print(np.sum(arr,axis=-1))
+print(np.sum(arr))
+
+
+"""
+ #cumsum function
+"""
+import numpy as np 
+
+arr= np.array([[23,45,67,89],
+               [23,45,89,90]])
+print(np.cumsum(arr))
+
+
+"""
+
+#cumprod function
+"""
+import numpy as np 
+arr=np.array([1,2,3,4])
+
+print(np.cumprod(arr))
+"""
+
+#prod function 
+"""
+import numpy as np 
+arr=np.array([1,2,3,4])
+print(np.prod(arr))
+
+"""
+
+#sum function with axis parameter
+import numpy as np
+
+arr=np.array([[4,5,6],[9,2,3],[8,4,7]])
+
+print(np.sum(arr,axis=0))
+print(np.sum(arr, axis=1))
+print(np.sum(arr, axis=-1))
+print(np.sum(arr, axis=0))
